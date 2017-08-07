@@ -1,5 +1,5 @@
-<!-- TITLE: About Me -->
-<!-- SUBTITLE: Tech, life and a little bit of everything else  -->
+<!-- TITLE: Zean Qin -->
+<!-- SUBTITLE: My resume  -->
 
 # Current
 * Working at [Clinicion](https://clinicion.com/) as a QA Tester

@@ -1,11 +1,11 @@
 <!-- TITLE: About Me -->
 <!-- SUBTITLE: Tech, life and a little bit of everything else  -->
 
-##Current
+## Current
 * Working at [Clinicion](https://clinicion.com/) as a QA Tester
 * Studying Master of Information Technology at the [University of Melbourne](http://www.unimelb.edu.au/)
 
-##Customer Service Representative at [Melbourne IT](https://www.melbourneit.com.au/)
+## Customer Service Representative at [Melbourne IT](https://www.melbourneit.com.au/)
 Sep 2014 – Feb 2016 (1 year 6 months)
 
 I was working full time as a customer service representative at UberGlobal. My main responsibilities include:
@@ -21,7 +21,7 @@ I was working full time as a customer service representative at UberGlobal. My m
 * Report service outages and manage related internal and external updates (service status and internal blog/email as deemed appropriate by CSM)
 * Contribute to health and safety at work by identifying, reporting and controlling hazards
 
-##Junior Software Developer at [VastPark](http://www.vastpark.com/)
+## Junior Software Developer at [VastPark](http://www.vastpark.com/)
 Feb 2012 - Aug 2014 (2 years 7 months)
 
 I was working full-time as a Junior Software Developer at VastPark. In addition to software development, my duties also include business analysis and customer support. During my employment, my main tasks/skills were:
@@ -35,6 +35,6 @@ I was working full-time as a Junior Software Developer at VastPark. In addition 
 * Maintain the systems once they are up and running
 * Provide customer supports by email and over the phone and troubleshoot application issues
 
-##Education
+## Education
 
 * Bachelor of Information Technology at [RMIT University](http://www.rmit.edu.au/) from 2009 to 2012

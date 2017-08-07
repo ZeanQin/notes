@@ -1,6 +1,7 @@
 <!-- TITLE: Zean Qin -->
 <!-- SUBTITLE: My resume  -->
-![Profile](/uploads/profile.jpg "Profile"){.pagelogo}
+![Profile](/uploads/profile.jpg "Profile"){.pagelogo
+![Profile](/uploads/profile.jpg "Profile"){.align-center}
 # Current
 * Working at [Clinicion](https://clinicion.com/) as a QA Tester
 * Studying Master of Information Technology at the [University of Melbourne](http://www.unimelb.edu.au/)

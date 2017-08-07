@@ -1,7 +1,6 @@
 <!-- TITLE: Apache Website Files Permission Setup -->
 <!-- SUBTITLE: A quick summary of Apache Website Files Permission Setup -->
 
-# Header
 Website files served by Apache need to have appropriate permissions. The common practice is to set all directories to 755 and set all files to 644.
 
 To change all the directories to 755 (`drwxr-xr-x`):

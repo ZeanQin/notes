@@ -1,5 +1,5 @@
 <!-- TITLE: About Me -->
-<!-- SUBTITLE: My name is Zean Qin. I make notes of what I have learnt here.  -->
+<!-- SUBTITLE: Tech, life and a little bit of everything else  -->
 
 ### Welcome
 This is the homepage. 

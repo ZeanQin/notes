@@ -1,7 +1,7 @@
 <!-- TITLE: About Me -->
 <!-- SUBTITLE: Tech, life and a little bit of everything else  -->
 
-### Welcome
-This is the homepage. 
+##Current
+* Working at [Clinicion[(https://clinicion.com/) as a QA Tester
+* Studying Master of Information Technology at the University of Melbourne
 
-TODO

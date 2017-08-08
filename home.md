@@ -3,6 +3,6 @@
 
 
 
-* [Resume]()
-* [Portfolios]()
+* [Resume](/zean)
+* [Portfolios](/kernel-density-estimation)
 * Knoledge Graph

@@ -22,3 +22,5 @@ Remember that using a hashed value lets a database jump straight to the record, 
 Most problems in computing have multiple solutions, and it’s often the case that you’ll have the choice between a slower algorithm that requires less space, or a faster algorithm that uses more. Which one you choose depends on the specific needs of your system. Trade-offs.
 
 This particular trade-off is sometimes called the space-time trade-off, which always makes me think of black holes, Einstein, and Douglas Adams’ Bistromathics.
+
+Link: https://blog.medium.com/what-are-bloom-filters-1ec2a50c68ff

@@ -1,7 +1,8 @@
 <!-- TITLE: Resume -->
 <!-- SUBTITLE: Zean's resume  -->
 # Current
-* Working at [Clinicion](https://clinicion.com/) as a QA Tester
+* Working at [Clinicion](https://clinicion.com/) as a software developer and QA tester on Clinicion's innovation healthcare platform. My main responsibilities are: 
+	* 
 * Studying Master of Information Technology at the [University of Melbourne](http://www.unimelb.edu.au/)
 
 # Customer Service Representative at [Melbourne IT](https://www.melbourneit.com.au/)

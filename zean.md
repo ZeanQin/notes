@@ -2,14 +2,15 @@
 <!-- SUBTITLE: Zean's resume  -->
 ![Profile](/uploads/profile.jpg "Profile"){.pagelogo}
 
-# Software developer at [Clinicion](https://clinicion.com/)
+# Software Developer at [Clinicion](https://clinicion.com/)
 **April 2018 - Current**
 
-After graduation, I have moved onto a full-time software developer role at Clinicion to work on our healthcare platform. My main responsibilities are: 
+After graduation, I have moved onto a full-time software developer role at [Clinicion](https://clinicion.com/) to work on our healthcare platform. My main responsibilities are: 
 * developing our enterprise hospital training application based on .NET and C#, 
+* evolving the software with design patterns like repository, CQRS + ES etc, 
 * managing issue, planning releases, estimating and scheduling tasks into the development pipeline to meet deadlines and service level agreements using the agile methodology, 
 * building analytical services, data visualisation and providing business intellegence to clients. 
-# Software QA Engineer While Studying Master Degree in IT at the University of Melbourne
+# Software QA Engineer While Studying Master of IT at the University of Melbourne
 **Feb 2016 - April 2018** (2 years and 2 months)
 
 * Worked part-time at [Clinicion](https://clinicion.com/) as a software developer and QA engineer on Clinicion's innovation healthcare platform. My main tasks were: 

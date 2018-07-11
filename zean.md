@@ -35,10 +35,10 @@ I was working full time as a customer service representative at UberGlobal. My m
 * Escalate all client communications that cannot be resolved, ensuring they are correctly categorised, prioritised and assigned.
 * Detail any notable incidents to their Team Leader at the end of each shift.
 * In addition all level 2 staff are required to:
-* * Remain up-to-date with all current company policies and procedures
-* * Ensure that all relevant Knowledge base articles are up-to-date, in line with current company policies and procedures.
-* * Report service outages and manage related internal and external updates (service status and internal blog/email as deemed appropriate by CSM)
-* * Contribute to health and safety at work by identifying, reporting and controlling hazards
+		* Remain up-to-date with all current company policies and procedures
+		* Ensure that all relevant Knowledge base articles are up-to-date, in line with current company policies and procedures.
+		* Report service outages and manage related internal and external updates (service status and internal blog/email as deemed appropriate by CSM)
+		* Contribute to health and safety at work by identifying, reporting and controlling hazards
 
 # Junior Software Developer at [VastPark](http://www.vastpark.com/)
 **Feb 2012 - Aug 2014** (2 years 7 months)

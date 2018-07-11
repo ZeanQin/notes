@@ -4,6 +4,7 @@
 
 # Software developer at [Clinicion](https://clinicion.com/)
 **April 2018 - Current**
+
 After graduation, I have moved onto a full-time software developer role at Clinicion to work on our healthcare platform. My main responsibilities are: 
 * developing our enterprise hospital training application based on .NET and C#, 
 * managing issue, planning releases, estimating and scheduling tasks into the development pipeline to meet deadlines and service level agreements using the agile methodology, 

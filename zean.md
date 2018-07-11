@@ -29,30 +29,30 @@ After graduation, I have moved onto a full-time software developer role at [Clin
 
 I was working full time as a customer service representative at UberGlobal. My main responsibilities include:
 
-* Respond to all Level 2 support communications in a timely, accurate, professional, and courteous manner.
-* Act as an escalation point for Level 1 support enquiries
-* Monitor all UberGlobal services. In the event of service failure, take prompt action to restore normal service. Where service cannot be immediately restored, implement the relevant escalation procedure.
-* Escalate all client communications that cannot be resolved, ensuring they are correctly categorised, prioritised and assigned.
-* Detail any notable incidents to their Team Leader at the end of each shift.
-* In addition all level 2 staff are required to:
-		* Remain up-to-date with all current company policies and procedures
-		* Ensure that all relevant Knowledge base articles are up-to-date, in line with current company policies and procedures.
-		* Report service outages and manage related internal and external updates (service status and internal blog/email as deemed appropriate by CSM)
-		* Contribute to health and safety at work by identifying, reporting and controlling hazards
+* respond to all Level 2 support communications in a timely, accurate, professional, and courteous manner.
+* act as an escalation point for Level 1 support enquiries
+* monitor all UberGlobal services. In the event of service failure, take prompt action to restore normal service. Where service cannot be immediately restored, implement the relevant escalation procedure.
+* escalate all client communications that cannot be resolved, ensuring they are correctly categorised, prioritised and assigned.
+* detail any notable incidents to their Team Leader at the end of each shift.
+* in addition, all level 2 staff are required to:
+		* remain up-to-date with all current company policies and procedures
+		* ensure that all relevant Knowledge base articles are up-to-date, in line with current company policies and procedures.
+		* report service outages and manage related internal and external updates (service status and internal blog/email as deemed appropriate by CSM)
+		* contribute to health and safety at work by identifying, reporting and controlling hazards
 
 # Junior Software Developer at [VastPark](http://www.vastpark.com/)
 **Feb 2012 - Aug 2014** (2 years 7 months)
 
 I was working full-time as a Junior Software Developer at VastPark. In addition to software development, my duties also include business analysis and customer support. During my employment, my main tasks/skills were:
 
-* Define and documents customer business functions and processes
-* Analyse the feasibility of, and develops requirements for, new systems and enhancements to existing systems; ensure the system design fits the needs of end users
-* Participate in user acceptance testing and testing of new system functionality
-* Develop web applications using HTML5, CSS3, JavaScript (jQuery, AJAX, AngularJS), PHP, MySQL, C# etc.
-* Research on the latest technologies and design optimized technical solutions for different problems
-* Prepare software training manuals for end users
-* Maintain the systems once they are up and running
-* Provide customer supports by email and over the phone and troubleshoot application issues
+* define and documents customer business functions and processes
+* analyse the feasibility of, and develops requirements for, new systems and enhancements to existing systems; ensure the system design fits the needs of end users
+* participate in user acceptance testing and testing of new system functionality
+* develop web applications using HTML5, CSS3, JavaScript (jQuery, AJAX, AngularJS), PHP, MySQL, C# etc.
+* research on the latest technologies and design optimized technical solutions for different problems
+* prepare software training manuals for end users
+* maintain the systems once they are up and running
+* provide customer supports by email and over the phone and troubleshoot application issues
 
 # Bachlor in IT at RMIT
 **2009 - 2012**

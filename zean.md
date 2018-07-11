@@ -7,7 +7,7 @@
 
 After graduation, I have moved onto a full-time software developer role at [Clinicion](https://clinicion.com/) to work on our healthcare platform. My main responsibilities are: 
 * developing our enterprise hospital training application based on .NET and C#, 
-* evolving the software with design patterns like repository, CQRS + ES etc, 
+* evolving the software with design patterns like repository, [CQRS + ES](https://martinfowler.com/bliki/CQRS.html) etc, 
 * managing issue, planning releases, estimating and scheduling tasks into the development pipeline to meet deadlines and service level agreements using the agile methodology, 
 * building analytical services, data visualisation and providing business intellegence to clients. 
 # Software QA Engineer While Studying Master of IT at the University of Melbourne

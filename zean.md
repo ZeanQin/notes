@@ -52,5 +52,7 @@ I was working full-time as a Junior Software Developer at VastPark. In addition 
 * Provide customer supports by email and over the phone and troubleshoot application issues
 
 # Bachlor in IT at RMIT
-
-* Bachelor of Information Technology at [RMIT University](http://www.rmit.edu.au/) from 2009 to 2012
+**2009 - 2012**
+* Bachelor of Information Technology at [RMIT University](http://www.rmit.edu.au/)
+		* Obtained High Distinction in all subjects that I took. See my [transcript here](https://www.slideshare.net/slideshow/embed_code/key/I9FMKX9iKgTf8w)
+		* The degree focused on software development. 

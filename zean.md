@@ -1,12 +1,28 @@
 <!-- TITLE: Resume -->
 <!-- SUBTITLE: Zean's resume  -->
 ![Profile](/uploads/profile.jpg "Profile"){.pagelogo}
-# Current
-* Working at [Clinicion](https://clinicion.com/) as a software developer and QA tester on Clinicion's innovation healthcare platform.
-* Studying Master of Information Technology at the [University of Melbourne](http://www.unimelb.edu.au/)
+
+# Software developer at [Clinicion](https://clinicion.com/)
+**April 2018 - Current**
+After graduation, I have moved onto a full-time software developer role at Clinicion to work on our healthcare platform. My main responsibilities are: 
+* developing our enterprise hospital training application based on .NET and C#, 
+* managing issue, planning releases, estimating and scheduling tasks into the development pipeline to meet deadlines and service level agreements using the agile methodology, 
+* building analytical services, data visualisation and providing business intellegence to clients. 
+# Software QA Engineer While Studying Master Degree in IT at the University of Melbourne
+**Feb 2016 - April 2018** (2 years and 2 months)
+
+* Worked part-time at [Clinicion](https://clinicion.com/) as a software developer and QA engineer on Clinicion's innovation healthcare platform. My main tasks were: 
+		* perform user acceptance testing,
+		* write automated tests using frameworks like [Selenium](https://www.seleniumhq.org/)
+		* develop enterprise application using design patterns like repository, CQRS + ES etc on top of .NET, C#, Azure etc. 
+
+* Obtained my Master of Information Technology degree at the [University of Melbourne](http://www.unimelb.edu.au/). 
+		* The degree is focused on software development and machine learning.
+		* My transcript can be found [here](https://www.myequals.net/#/sharelink/12949323-b32e-4eea-b307-bac4589dcfc4/10f060ad-0bd7-471f-9c96-a10c8d72d837). 
+		* During my study, I worked on a couple of interesting projects: [Adversarial Machine Learning](https://github.com/ZeanQin/adversarial-machine-learning) and [OCR From Historic Documents](https://github.com/ZeanQin/ocr-from-historic-documents)
 
 # Customer Service Representative at [Melbourne IT](https://www.melbourneit.com.au/)
-Sep 2014 – Feb 2016 (1 year 6 months)
+**Sep 2014 – Feb 2016** (1 year 6 months)
 
 I was working full time as a customer service representative at UberGlobal. My main responsibilities include:
 
@@ -22,7 +38,7 @@ I was working full time as a customer service representative at UberGlobal. My m
 * Contribute to health and safety at work by identifying, reporting and controlling hazards
 
 # Junior Software Developer at [VastPark](http://www.vastpark.com/)
-Feb 2012 - Aug 2014 (2 years 7 months)
+**Feb 2012 - Aug 2014** (2 years 7 months)
 
 I was working full-time as a Junior Software Developer at VastPark. In addition to software development, my duties also include business analysis and customer support. During my employment, my main tasks/skills were:
 
@@ -35,6 +51,6 @@ I was working full-time as a Junior Software Developer at VastPark. In addition 
 * Maintain the systems once they are up and running
 * Provide customer supports by email and over the phone and troubleshoot application issues
 
-# Education
+# Bachlor in IT at RMIT
 
 * Bachelor of Information Technology at [RMIT University](http://www.rmit.edu.au/) from 2009 to 2012

@@ -18,6 +18,7 @@ After graduation, I have moved onto a full-time software developer role at Clini
 
 * Obtained my Master of Information Technology degree at the [University of Melbourne](http://www.unimelb.edu.au/). 
 		* The degree is focused on software development and machine learning.
+		* During my study, I was awarded the [Alan Knipe Scholarship](https://studenteforms.app.unimelb.edu.au/apex/f?p=153:2:0:::2:P2_ID:1641),
 		* My transcript can be found [here](https://www.myequals.net/#/sharelink/12949323-b32e-4eea-b307-bac4589dcfc4/10f060ad-0bd7-471f-9c96-a10c8d72d837). 
 		* During my study, I worked on a couple of interesting projects: [Adversarial Machine Learning](https://github.com/ZeanQin/adversarial-machine-learning) and [OCR From Historic Documents](https://github.com/ZeanQin/ocr-from-historic-documents)
 

@@ -57,5 +57,5 @@ I was working full-time as a Junior Software Developer at VastPark. In addition 
 # Bachlor in IT at RMIT
 **2009 - 2012**
 * Bachelor of Information Technology at [RMIT University](http://www.rmit.edu.au/)
-		* Obtained High Distinction in all subjects that I took. See my [transcript here](https://www.slideshare.net/slideshow/embed_code/key/I9FMKX9iKgTf8w)
-		* The degree focused on software development. 
+		* obtained High Distinction in all subjects that I took. See my [transcript](https://www.slideshare.net/slideshow/embed_code/key/I9FMKX9iKgTf8w) here,
+		* the degree focused on software development. 
